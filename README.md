@@ -25,8 +25,6 @@ L'interfaccia del sito riproduce l’iPod nella sua forma classica, con una clic
 L’iPod rimane sempre visibile e fisso sulla sinistra dello schermo, mantenendo la funzione di menu persistente. Una volta selezionata una sezione, il contenuto si apre nella parte destra della pagina, che presenta uno scroll verticale semplice e ordinato, con testi suddivisi da titoli chiari per facilitare la lettura.
 Inoltre L’utente non può "saltare" o "scorrere" rapidamente, ma deve esplorare i contenuti in modo sequenziale, come si faceva con i primi dispositivi digitali portatili.
 
-[<img src="doc/cards.gif" width="500" alt="Magic trick">]()
-
 
 ## Tecnologia usata
 Il progetto è stato realizzato utilizzando HTML per la struttura dei contenuti, CSS per definire lo stile dell’interfaccia e garantire un design pulito e responsive, e JavaScript per gestire l’interattività, in particolare il comportamento della clickwheel e la navigazione tra le sezioni.
