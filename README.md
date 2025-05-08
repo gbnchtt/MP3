@@ -6,7 +6,7 @@ Elaborato 2: Atlante tecnologico: file multimediali
 
 # Il formato MP3
 Autore: Giorgia Bianchetti
-[Titolo progetto](https://ixd-supsi.github.io/2023/esempi/mp_hands/es6/1_landmarks)
+[Il formato MP3][(https://ixd-supsi.github.io/2023/esempi/mp_hands/es6/1_landmarks)](https://gbnchtt.github.io/MP3/)
 
 
 ## Introduzione e tema
