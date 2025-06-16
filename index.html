@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Il formato MP3</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+ 
+  <div style="display: flex; height: calc(100vh - 90px); overflow: hidden;">
+
+    <div id="ipodView" class="ipod-wrapper">
+      <div class="ipod">
+        <div class="screen"><div id="screenContent"></div></div>
+        <div class="clickwheel">
+          <div class="top">Menu</div>
+          <div class="bottom">Play</div>
+          <div class="left">Rew</div>
+          <div class="right">Fwd</div>
+          <div class="center-button"></div>
+        </div>        
+      </div>
+    </div>
+
+    <div id="webView" class="container active" style="flex: 1; padding-top: 57px;"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+<source src="toms_diner.mp3" type="audio/mpeg">
+

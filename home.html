@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Avvio - Il formato MP3</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      background: #111;
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+    }
+  
+    .ipod-wrapper {
+      width: 100%;
+      display: flex;
+      justify-content: center; /* centro orizzontale */
+      box-sizing: border-box;
+      padding-top: 60px; /* 👈 Altezza precisa da regolare */
+    }
+  
+    #screenContent {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+    }
+  </style>
+  
+  
+  
+  
+</head>
+<body>
+  <div class="ipod-wrapper" style="padding-top: 0;">
+    <div class="ipod">
+      <div class="screen">
+        <div id="screenContent"></div>
+      </div>
+      <div class="clickwheel">
+        <div class="top">Menu</div>
+        <div class="bottom">Play</div>
+        <div class="left">Rew</div>
+        <div class="right">Fwd</div>
+        <div class="center-button"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const screen = document.getElementById("screenContent");
+
+    // Forza lo stile inline per bypassare il CSS esterno
+    screen.textContent = "";
+    screen.style.fontSize = "80px";
+    screen.style.fontWeight = "bold";
+
+    setTimeout(() => {
+      screen.textContent = "IL FORMATO MP3";
+      screen.style.fontSize = "20px"; // testo un po' più piccolo
+    }, 3500); // dopo 3.5 secondi
+
+    setTimeout(() => {
+      window.location.href = "index.html";
+    }, 6500); // dopo 6.5 secondi
+  </script>
+</body>
+</html>
