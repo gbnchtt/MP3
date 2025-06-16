@@ -2,58 +2,34 @@ SUPSI 2025
 Corso d’interaction design, CV428.01  
 Docenti: A. Gysin, G. Profeta  
 
-Elaborato 1: Me, Myself & AI  
+Elaborato 2: Atlante tecnologico: file multimediali
 
-# Titolo progetto
-Autore: Hans Manon  
-[Titolo progetto](https://ixd-supsi.github.io/2023/esempi/mp_hands/es6/1_landmarks)
+# Il formato MP3
+Autore: Giorgia Bianchetti <br>
+[Il formato MP3](https://gbnchtt.github.io/MP3/)
 
 
 ## Introduzione e tema
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Congue eu consequat ac felis donec. Nisi est sit amet facilisis magna etiam tempor. Nisl nisi scelerisque eu ultrices vitae. Id aliquet lectus proin nibh nisl. Urna nec tincidunt praesent semper feugiat nibh. Imperdiet dui accumsan sit amet nulla facilisi morbi. Aliquet enim tortor at auctor urna nunc. Id cursus metus aliquam eleifend mi. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in. Odio morbi quis commodo odio aenean sed. Turpis cursus in hac habitasse. Sed enim ut sem viverra aliquet eget sit. Iaculis at erat pellentesque adipiscing commodo. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed arcu. Ipsum faucibus vitae aliquet nec ullamcorper sit. Tempus quam pellentesque nec nam aliquam sem et tortor. Turpis egestas sed tempus urna et pharetra pharetra massa. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel.
-
+Per l’elaborato 2 del corso di Interaction Design, ci è stato chiesto di progettare e realizzare una pagina web capace di raccontare il funzionamento di un file multimediale. Ho deciso di concentrarmi sul formato MP3, un simbolo dell’era digitale che ha profondamente trasformato il nostro modo di ascoltare la musica.
+Il sito accompagna l’utente attraverso una panoramica storica e tecnica, mostrando come questo formato abbia permesso di ridurre notevolmente le dimensioni dei file audio, mantenendo al contempo una qualità d’ascolto percepita come più che accettabile. Questa efficienza lo ha reso uno dei metodi di codifica audio più diffusi nella cultura digitale degli ultimi decenni.
+Attraverso una simulazione dell’interfaccia dell’iPod, dispositivo emblema degli anni 2000, il progetto propone un'esperienza interattiva. 
 
 ## Riferimenti progettuali
-Dolor sit amet consectetur adipiscing elit duis tristique. Sociis natoque penatibus et magnis dis parturient montes nascetur. Est sit amet facilisis magna. Tellus rutrum tellus pellentesque eu. Dictum sit amet justo donec enim. Aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Sed faucibus turpis in eu mi bibendum neque egestas congue. Tellus in metus vulputate eu scelerisque felis imperdiet proin. Dolor magna eget est lorem ipsum dolor. Sit amet mattis vulputate enim nulla. Elit pellentesque habitant morbi tristique senectus et. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa.
-
-
-https://user-images.githubusercontent.com/6561331/236182302-68a6bd12-7b83-4d19-b83e-c9b7db795881.mp4
+Il progetto si ispira all'estetica e alla logica d'interazione del classico iPod di Apple, reinterpretandone la famosa interfaccia a rotella in ambiente web. Questo riferimento è stato utilizzato unicamente per costruire il menu iniziale del sito, concepito come indice navigabile che richiama l’esperienza di selezione e scoperta tipica dei dispositivi fisici.
+La scelta dell’iPod non è casuale: introdotto nei primi anni 2000, è stato uno dei primi lettori MP3 ad ampia diffusione e ha contribuito in modo determinante alla trasformazione del consumo musicale.
+Per quanto riguarda il resto della struttura visiva, ho adottato uno stile minimale, privo di decorazioni superflue, in modo da mettere in risalto i contenuti informativi e facilitare la lettura. La scelta di un design pulito e lineare riflette l’intenzione di creare un’interfaccia accessibile, leggibile e coerente con l’approccio divulgativo del progetto.
 
 
 ## Design dell’interfaccia e modalità di interazione
-Facilisis magna etiam tempor orci eu. Felis donec et odio pellentesque diam volutpat commodo. Dis parturient montes nascetur ridiculus mus mauris vitae. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Accumsan sit amet nulla facilisi. Ultricies leo integer malesuada nunc vel risus. Est lorem ipsum dolor sit. Ultrices neque ornare aenean euismod elementum nisi. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget gravida. Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Arcu dictum varius duis at consectetur lorem donec massa sapien. Pellentesque habitant morbi tristique senectus. Turpis massa sed elementum tempus egestas sed sed risus pretium. Eros donec ac odio tempor orci. Pellentesque id nibh tortor id aliquet lectus. Risus feugiat in ante metus dictum at. Quam pellentesque nec nam aliquam sem et tortor consequat id. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Sit amet dictum sit amet justo donec enim.
-
-[<img src="doc/cards.gif" width="500" alt="Magic trick">]()
+L'interfaccia del sito riproduce l’iPod nella sua forma classica, con una clickwheel funzionante che consente di navigare tra le voci del menu. È possibile spostarsi tra le sezioni utilizzando le due direzioni e selezionare con il tasto centrale, proprio come sul dispositivo originale. Tuttavia, per rendere l’esperienza più accessibile e flessibile, è anche possibile selezionare direttamente con il mouse la sezione desiderata all'interno dell’indice.
+L’iPod rimane sempre visibile e fisso sulla sinistra dello schermo, mantenendo la funzione di menu persistente. Una volta selezionata una sezione, il contenuto si apre nella parte destra della pagina, che presenta uno scroll verticale semplice e ordinato, con testi suddivisi da titoli chiari per facilitare la lettura.
+Inoltre L’utente non può "saltare" o "scorrere" rapidamente, ma deve esplorare i contenuti in modo sequenziale, come si faceva con i primi dispositivi digitali portatili.
 
 
 ## Tecnologia usata
-Nunc consequat interdum varius sit amet mattis vulputate. Vehicula ipsum a arcu cursus vitae congue. Odio ut sem nulla pharetra. Accumsan lacus vel facilisis volutpat est velit egestas dui id. Quisque egestas diam in arcu cursus. Eget nulla facilisi etiam dignissim diam. Aenean sed adipiscing diam donec adipiscing tristique. Porttitor massa id neque aliquam. Sem viverra aliquet eget sit amet tellus cras. Scelerisque eu ultrices vitae auctor eu augue ut lectus. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Lacus sed turpis tincidunt id aliquet risus feugiat.
-
-
-```JavaScript
-const image = new Image();
-image.onload = () => {
-	gl.bindTexture(gl.TEXTURE_2D, texture);
-	gl.texImage2D(
-		gl.TEXTURE_2D,
-		level,
-		internalFormat,
-		srcFormat,
-		srcType,
-		image
-	);
-	if (isPowerOf2(image.width) && isPowerOf2(image.height)) {
-		gl.generateMipmap(gl.TEXTURE_2D);
-	} else {
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
-		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
-	}
-};
-image.src = url;
-```
+Il progetto è stato realizzato utilizzando HTML per la struttura dei contenuti, CSS per definire lo stile dell’interfaccia e garantire un design pulito e responsive, e JavaScript per gestire l’interattività, in particolare il comportamento della clickwheel e la navigazione tra le sezioni.
 
 ## Target e contesto d’uso
-Sed enim ut sem viverra aliquet eget sit. Iaculis at erat pellentesque adipiscing commodo. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed arcu. Ipsum faucibus vitae aliquet nec ullamcorper sit. Tempus quam pellentesque nec nam aliquam sem et tortor. Turpis egestas sed tempus urna et pharetra pharetra massa. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel.
-
-[<img src="doc/munari.jpg" width="300" alt="Supplemento al dizionario italiano">]()
+Il progetto è pensato per un pubblico che ha vissuto o vuole esplorare l’epoca dell’MP3 e dell’iPod, in particolare giovani adulti, studenti e designer interessati alla cultura digitale e all’evoluzione dei formati multimediali.
+I contenuti del sito sono scritti in modo chiaro e accessibile, pensati per essere compresi anche da chi non ha familiarità con i termini tecnici. Alcuni concetti relativi alla compressione audio, alla perdita di dati e al funzionamento dell’MP3 vengono comunque affrontati, ma con un linguaggio semplificato e supportato da esempi concreti.
+Il sito può essere utilizzato in ambito didattico, come introduzione ai formati digitali, oppure fruito individualmente.
