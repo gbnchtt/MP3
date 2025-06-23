@@ -29,6 +29,10 @@ Inoltre L’utente non può "saltare" o "scorrere" rapidamente, ma deve esplorar
 ## Tecnologia usata
 Il progetto è stato realizzato utilizzando HTML per la struttura dei contenuti, CSS per definire lo stile dell’interfaccia e garantire un design pulito e responsive, e JavaScript per gestire l’interattività, in particolare il comportamento della clickwheel e la navigazione tra le sezioni.
 
+
+
+
+
 ## Target e contesto d’uso
 Il progetto è pensato per un pubblico che ha vissuto o vuole esplorare l’epoca dell’MP3 e dell’iPod, in particolare giovani adulti, studenti e designer interessati alla cultura digitale e all’evoluzione dei formati multimediali.
 I contenuti del sito sono scritti in modo chiaro e accessibile, pensati per essere compresi anche da chi non ha familiarità con i termini tecnici. Alcuni concetti relativi alla compressione audio, alla perdita di dati e al funzionamento dell’MP3 vengono comunque affrontati, ma con un linguaggio semplificato e supportato da esempi concreti.
